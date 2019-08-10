@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565285456 source:/home/tiago/Documents/ufjf/disciplinas/computacao-grafica/CG/src/quadColor.cpp
+	<stdio.h>
+	<GL/glut.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565462555 source:/home/tiago/Documents/ufjf/disciplinas/computacao-grafica/exercicio2/quad.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+

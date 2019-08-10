@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565460461 source:/home/tiago/Documents/ufjf/disciplinas/computacao-grafica/CG/src/rascunho/main.cpp
+	<iostream>
+	<math.h>
+
